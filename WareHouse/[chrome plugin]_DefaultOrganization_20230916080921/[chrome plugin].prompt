@@ -1,0 +1,1 @@
+[a chrome plugin which securely accesses the Jira API and passes details to the ChatGPT 4 API enabling a user to chat with Jira the chat gpt plugin should use the chat api to enable jira context specific chat with the users jira data, storage of API keys should be secure]

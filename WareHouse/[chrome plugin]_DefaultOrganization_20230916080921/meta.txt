@@ -1,0 +1,29 @@
+Task:
+[a chrome plugin which securely accesses the Jira API and passes details to the ChatGPT 4 API enabling a user to chat with Jira the chat gpt plugin should use the chat api to enable jira context specific chat with the users jira data, storage of API keys should be secure]
+
+Config:
+ChatEnvConfig.clear_structure: True
+ChatEnvConfig.brainstorming: False
+
+
+Roster:
+Chief Executive Officer, Counselor, Chief Human Resource Officer, Chief Product Officer, Chief Technology Officer, Programmer, Code Reviewer, Software Test Engineer, Chief Creative Officer
+
+Modality:
+chrome plugin
+
+Ideas:
+
+
+Language:
+ Python
+
+Code_Version:
+5.0
+
+Proposed_images:
+0
+
+Incorporated_images:
+0
+
